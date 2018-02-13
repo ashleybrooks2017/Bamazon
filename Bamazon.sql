@@ -20,19 +20,19 @@ VALUES ('Table', 'Home', 299.99, 5);
 INSERT INTO Products (product_name, department_name, price_ctc, stock_quantity)
 VALUES ('Curtains', 'Home', 9.95, 100);
 INSERT INTO Products (product_name, department_name, price_ctc, stock_quantity)
-VALUES ('Computer Stand', 'Office', 148.00, 50);
+VALUES ('File Cabinet', 'Office', 148.00, 50);
 INSERT INTO Products (product_name, department_name, price_ctc, stock_quantity)
-VALUES ('Trash Can', 'Office', 14.95, 125);
+VALUES ('Paper', 'Office', 14.95, 125);
 INSERT INTO Products (product_name, department_name, price_ctc, stock_quantity)
-VALUES ('Red Ruby Shoes', 'Shoes', 99.95, 65);
+VALUES ('Brooks', 'Shoes', 99.95, 65);
 INSERT INTO Products (product_name, department_name, price_ctc, stock_quantity)
-VALUES ('Blue Suede Shoes', 'Shoes', 119.95, 60);
+VALUES ('Pink Coach Purse', 'Shoes', 119.95, 60);
 INSERT INTO Products (product_name, department_name, price_ctc, stock_quantity)
 VALUES ('BeBe', 'Accessory', 84.95, 2);
 INSERT INTO Products (product_name, department_name, price_ctc, stock_quantity)
 VALUES ('Holy Jeans', 'Mens', 88.95, 12);
 INSERT INTO Products (product_name, department_name, price_ctc, stock_quantity)
-VALUES ('Short Shorts', 'Mens', 4.95, 105);
+VALUES ('UPS Shorts', 'Mens', 4.95, 105);
 INSERT INTO Products (product_name, department_name, price_ctc, stock_quantity)
 VALUES ('Silk Shirt', 'Womens', 33.99, 80);
 

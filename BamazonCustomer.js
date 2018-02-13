@@ -7,7 +7,7 @@ var connection = mysql.createConnection({
       host: "localhost",
       port: 3306,
        user: "root",
-      password: "root",
+      password: "Sourapple85",
      database: "Bamazon"
 });
 
@@ -217,7 +217,7 @@ function updateDatabase(fTotal){
     });
    });
 
-/
+
     connection.query('SELECT stock_quantity FROM Products WHERE ?', {
     product_name: itemName
 
